@@ -1,6 +1,4 @@
-/*-------------
- 	General
--------------*/
+/*General*/
 
 *{
 	margin: 0;
@@ -94,9 +92,7 @@ ul.grid{
 }
 
 
-/*-------------
- 	Header
--------------*/
+/*Header*/
 
 header{
 	position: sticky;
@@ -154,9 +150,7 @@ header nav li:last-child{
 
 
 
-/*----------------
- 	Hero Section
-----------------*/
+/*Intro Section*/
 
 .intro{
 	position: relative;
@@ -224,9 +218,7 @@ header nav li:last-child{
 
 
 
-/*--------------------
- 	Our Work Section
----------------------*/
+/*Projects Section*/
 
 .projects{
 	background-color: #fff;
@@ -268,9 +260,7 @@ header nav li:last-child{
 
 
 
-/*----------------------
- 	Features Section
-----------------------*/
+/*Skills Section*/
 
 .skills{
 	background-color: #f7f7f7;
@@ -322,14 +312,7 @@ header nav li:last-child{
 
 
 
-
-
-
-
-
-/*-------------
- 	Footer
--------------*/
+/*Footer*/
 
 footer{
 	display: flex;
@@ -379,8 +362,3 @@ footer p a{
 }
 
 
-/* -- Demo ads -- */
-
-@media (max-width: 1200px) {
-	#bsaHolder{ display:none;}
-}
